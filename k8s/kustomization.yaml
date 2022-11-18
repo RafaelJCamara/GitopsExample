@@ -8,4 +8,4 @@ resources:
 images:
 - name: nodeserver
   newName: rafaeljcamara/gitopsfc
-  newTag: 2183152261152403daebbe59263f5ac8753825ac
+  newTag: a7b7543ab450e19b54f3e80f1b455eaa623ac180
